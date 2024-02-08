@@ -11,6 +11,8 @@ namespace julianapi.Models
        public bool Active{get; set;}
 
        public string TestingBranch {get; set;}= "";
+    public string TestingBranch2 {get; set;}= "";
+
        
 
 
