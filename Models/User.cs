@@ -12,6 +12,7 @@ namespace julianapi.Models
 
        public string TestingBranch {get; set;}= "";
     public string TestingBranch2 {get; set;}= "";
+    public string TestingBranch3 {get; set;}= "";
 
        
 
