@@ -10,6 +10,8 @@ namespace julianapi.Models
        public string Gender{get; set;}= "";
        public bool Active{get; set;}
 
+       public string TestingBranch {get; set;}= "";
+
 
     }
 }
