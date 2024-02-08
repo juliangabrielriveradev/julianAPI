@@ -1,0 +1,5 @@
+obj/
+appsettings.json
+bin/
+.azure/
+Properties/

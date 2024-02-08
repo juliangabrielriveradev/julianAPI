@@ -1,0 +1,6 @@
+@julianAPI_HostAddress = http://localhost:5079
+
+GET {{julianAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
