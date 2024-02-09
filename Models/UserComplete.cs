@@ -13,7 +13,7 @@ namespace julianapi.Models
        public string Department{get; set;}= "";
        public decimal Salary{get; set;}
               public string TestingBranch {get; set;}= "";
-
+public string TestingBrancht {get; set;}= "";
 
 
     }
